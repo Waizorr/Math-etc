@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\orlan\source\repos\WhitchMat\WhitchMat\Source.cpp(10,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\orlan\source\repos\WhitchMat\WhitchMat\Source.cpp(22,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\orlan\source\repos\WhitchMat\WhitchMat\Source.cpp(80,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  WhitchMat.vcxproj -> C:\Users\orlan\source\repos\WhitchMat\WhitchMat\x64\Debug\WhitchMat.exe
